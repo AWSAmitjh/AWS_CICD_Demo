@@ -12,6 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace AspNetCoreWebApplication
 {
+    //Startup file for further customization
     public class Startup
     {
         public Startup(IConfiguration configuration)
